@@ -85,9 +85,3 @@ You’re free to use, modify, and share it.
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
 
-```
-
----
-
-👉 Do you want me to now **write another README** for your **second project** (tell me its name), or should I make one **generic template** you can copy and just change the project details?
-```
