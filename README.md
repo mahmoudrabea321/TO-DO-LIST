@@ -36,11 +36,12 @@ This project allows users to easily manage their daily tasks with a clean UI.
    cd TO-DO-LIST
 ````
 
-2. **Install dependencies**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://to-do-list1.pages.dev/)
 
-   ```bash
-   npm install
-   ```
+
+---
+
 
 3. **Run the app locally**
 
@@ -84,4 +85,5 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
