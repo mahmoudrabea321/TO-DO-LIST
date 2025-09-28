@@ -1,8 +1,4 @@
-Perfect ✅ since your **first repo** is a **To-Do List App**, here’s a polished `README.md` you can add directly to your project:
 
----
-
-````markdown
 # 📝 To-Do List App
 
 A simple and modern **To-Do List application** built with React.  
@@ -85,5 +81,6 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
