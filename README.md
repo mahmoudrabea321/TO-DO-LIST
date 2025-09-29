@@ -61,13 +61,7 @@ TO-DO-LIST/
 │   │-- main.jsx
 │-- package.json
 │-- README.md
-```
 
----
-
-## 📸 Screenshots
-
-*Add screenshots here later (example: a screenshot of the UI).*
 
 ---
 
@@ -81,6 +75,7 @@ You’re free to use, modify, and share it.
 ## ✨ Author
 
 Developed with ❤️ by [**Mahmoud Rabea Assaf**](https://github.com/mahmoudrabea321).
+
 
 
 
